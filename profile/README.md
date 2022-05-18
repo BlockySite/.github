@@ -29,11 +29,6 @@ Wanna develop websites without coding, check out https://blockysite.com
 <a href="https://www.youtube.com/c/UC4rsIPv0dS5B1IMXtVLW1hQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
-### Top Repositories
-<div width="100%" align="center">
-  <a href="https://github.com/BlockySite/community" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BlockySite&repo=community&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
