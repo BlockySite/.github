@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=blockysite&style=flat-square&color=0088cc)
+
 Hi 👋 BlockySite team presents
 ===========================
 
