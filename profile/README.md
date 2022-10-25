@@ -6,7 +6,7 @@ Hi 👋 BlockySite team presents
 The next generation web builder
 -------------------------------
 
-Wanna develop websites without coding, check out https://blockysite.com
+Wanna develop websites without coding, check out https://creator.blockysite.com
 
 *   🌍  We are from India
 *   ✉️  You can contact with us at [contact@blockysite.com](mailto:contact@blockysite.com)
